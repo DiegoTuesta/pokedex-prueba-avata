@@ -1,8 +1,8 @@
-import pichachu from '../../public/assets/img/pokemon-triste.png'
+
 const NotFound = () => {  
   return (
     <div className="not-found">
-      <img src={pichachu} alt="" />
+      {/* <img src={Pichachu} alt="" /> */}
       <p>404 Page Not Found</p>
     </div>
   )
