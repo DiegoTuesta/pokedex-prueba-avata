@@ -7,4 +7,4 @@ Aplicacion web realizada en React, Hooks, axios y css.
 * Paginación
 * Muestra detalle pokemon
 
-  (Link Deploy)[https://google.com]
+  [Link Deploy](https://challenge-avatar-diego-tuesta.netlify.app/)
